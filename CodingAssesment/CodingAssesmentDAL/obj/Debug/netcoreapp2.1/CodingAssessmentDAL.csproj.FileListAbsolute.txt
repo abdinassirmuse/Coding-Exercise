@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\bin\Debug\netcoreapp2.1\CodingAssessmentDAL.deps.json
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\bin\Debug\netcoreapp2.1\CodingAssessmentDAL.runtimeconfig.json
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\bin\Debug\netcoreapp2.1\CodingAssessmentDAL.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\bin\Debug\netcoreapp2.1\CodingAssessmentDAL.dll
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\bin\Debug\netcoreapp2.1\CodingAssessmentDAL.pdb
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\obj\Debug\netcoreapp2.1\CodingAssessmentDAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\obj\Debug\netcoreapp2.1\CodingAssessmentDAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\obj\Debug\netcoreapp2.1\CodingAssessmentDAL.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\obj\Debug\netcoreapp2.1\CodingAssessmentDAL.dll
+C:\Users\Administrator\Documents\Projects\CodingAssesment\CodingAssesment\CodingAssesmentDAL\obj\Debug\netcoreapp2.1\CodingAssessmentDAL.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingAssessmentDAL", "CodingAssesmentDAL\CodingAssessmentDAL.csproj", "{FC76AFE1-0000-460C-B33B-65375B0859B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingAssessmentWebAPI", "CodingAssessmentWebAPI\CodingAssessmentWebAPI.csproj", "{FC9DDAD1-01BC-4E95-95D3-0DEE729E8C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC76AFE1-0000-460C-B33B-65375B0859B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC76AFE1-0000-460C-B33B-65375B0859B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC76AFE1-0000-460C-B33B-65375B0859B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC76AFE1-0000-460C-B33B-65375B0859B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9DDAD1-01BC-4E95-95D3-0DEE729E8C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9DDAD1-01BC-4E95-95D3-0DEE729E8C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9DDAD1-01BC-4E95-95D3-0DEE729E8C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9DDAD1-01BC-4E95-95D3-0DEE729E8C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F0FE569-214A-4013-A684-E7293252AC52}
+	EndGlobalSection
+EndGlobal
